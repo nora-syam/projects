@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-width: 400px;
+    height: 100%;
+    align-items: center;
+    box-sizing: inherit;
+}
+
+
+.container {
+    text-align: right;
+    padding: 10px;
+}
+
+.nav-link {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.search-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.logo {
+   /* width: 150px;*/
+    margin-bottom: 20px;
+
+    max-width: 100%;
+    height: auto;
+    max-height: 80vh; /* Limit image height to 80% of viewport height */
+    
+    border-radius: 5px;
+}
+
+.search-input {
+    width: 400px;
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.search-button, .lucky-button, .advanced-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.advanced-options {
+    text-align: left;
+    margin: 20px;
+}
+
+.advanced-input {
+    width: 400px;
+    padding: 5px;
+    margin: 5px 0;
+}
+.uU7dJb {
+    padding: 15px 30px;
+    border-bottom: 1px solid #3c4043;
+    font-size: 15px;
+    color: #9aa0a6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+   
+/* Add more styling as needed to achieve the Google aesthetic */
